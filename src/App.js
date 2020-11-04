@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import 'boostrap/package.json';
 import {BrowserRouter as Router,Switch,Route, Link} from 'react-router-dom';
-
+//dsd
 import Create from './component/create.component';
 import Edit from './component/edit.component';
 import Index from './component/index.component';
